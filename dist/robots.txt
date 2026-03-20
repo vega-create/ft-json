@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://json.freetoolkit.cc/sitemap-index.xml
