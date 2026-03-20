@@ -14,8 +14,6 @@ faq:
   - q: "How often is this developer guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current developer recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1rem; border: 1px solid #e2e8f0;"><div style="display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; font-size: 0.8rem;"><div style="background: #dbeafe; padding: 0.5rem 0.8rem; border-radius: 8px; text-align: center;"><div style="font-size: 0.65rem; color: #6b7280;">3 bytes in</div><div style="font-weight: 700; color: #1e40af; font-family: monospace;">ABC</div></div><div style="font-weight: 700; color: #3b82f6; font-size: 1.2rem;">→</div><div style="background: #dcfce7; padding: 0.5rem 0.8rem; border-radius: 8px; text-align: center;"><div style="font-size: 0.65rem; color: #6b7280;">4 chars out</div><div style="font-weight: 700; color: #166534; font-family: monospace;">QUJD</div></div><div style="font-size: 0.7rem; color: #dc2626; font-weight: 600;">+33% size</div></div></div>
 Base64 is a binary-to-text encoding scheme that represents binary data in ASCII string format. It is used extensively in web development for embedding data, email attachments, and API communication.
 
 ## How Base64 Works

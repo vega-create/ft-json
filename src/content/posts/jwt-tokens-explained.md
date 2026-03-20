@@ -14,8 +14,6 @@ faq:
   - q: "How often is this developer guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current developer recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.6rem;">JWT Token Structure</div><div style="display: flex; gap: 0.3rem; font-size: 0.75rem;"><div style="flex: 1; background: #dc2626; color: white; padding: 0.5rem; border-radius: 8px 0 0 8px; text-align: center;"><b>Header</b><br><span style="font-size: 0.65rem;">Algorithm</span></div><div style="flex: 1; background: #7c3aed; color: white; padding: 0.5rem; text-align: center;"><b>Payload</b><br><span style="font-size: 0.65rem;">Claims/Data</span></div><div style="flex: 1; background: #2563eb; color: white; padding: 0.5rem; border-radius: 0 8px 8px 0; text-align: center;"><b>Signature</b><br><span style="font-size: 0.65rem;">Verification</span></div></div></div>
 JSON Web Tokens (JWT) are a compact way to transmit information between parties as a JSON object. They are widely used for authentication in modern web applications.
 
 ## JWT Structure

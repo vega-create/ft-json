@@ -14,8 +14,6 @@ faq:
   - q: "How often is this developer guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current developer recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f0fdf4; border-radius: 12px; padding: 1.2rem; border: 1px solid #bbf7d0;"><div style="font-weight: 700; font-size: 0.85rem; color: #166534; margin-bottom: 0.8rem;">CSS Optimization Impact</div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 70%; background: #16a34a; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Gzip compression: −70%</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 40%; background: #22c55e; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Remove unused: −40%</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 20%; background: #86efac; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: #166534;">Minify: −20%</div></div><div style="display: flex; align-items: center; gap: 0.5rem;"><div style="width: 10%; background: #bbf7d0; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: #166534;">Combine: −10%</div></div></div>
 CSS optimization reduces file size and improves rendering performance. Minification is the first step, but there are many additional techniques.
 
 ## CSS Minification
